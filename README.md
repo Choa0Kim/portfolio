@@ -38,8 +38,8 @@
 > 금융이력부족자(ThinFiler)를 위한 대안신용평가서비스 _(우리FISA - Wooram조 팀프로젝트)_
 >
 > - 개발기간 : 2025.10.17-12.05
-> - 핵심 역할 : ML 모델링, Generative model 사용
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
+> - 핵심 역할 : ML 모델링
+>
 >> Backend & API
 > - Java & Spring Boot (3.5.7)
 > - FastAPI
