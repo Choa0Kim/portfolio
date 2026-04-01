@@ -1,15 +1,15 @@
 
 # 김초아  포트폴리오
 
-> AI/ML  Data 포트폴리오
-
 <br />
 
 # 👋 Intro
 
-> 안녕하세요! ***"AL/ML 엔지니어를 꿈꾸는"*** 김초아입니다!  
-
-> 저에 대한 더 자세한 내용은 <a href="https://github.com/Choa0Kim"> <img src="https://img.shields.io/badge/-Profile-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a>이곳을 통해 확인 하실 수 있습니다!
+> 안녕하세요! ***"AL/ML 엔지니어를 꿈꾸는"*** 김초아입니다! 
+>
+<a href="https://github.com/Choa0Kim">
+<img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
+</a>
 
 <br />
 
@@ -40,10 +40,19 @@
 > - 개발기간 : 2025.10.17-12.05
 > - 핵심 역할 : ML 모델링, Generative model 사용
 > - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
+>> Backend & API
+> - Java & Spring Boot (3.5.7)
+> - FastAPI
+> - Docker 20.10
+>> Data & AI Engineering
+> - MySQL 8.0
+> - XGboost, LightGBM, 
 >
->> [프로젝트 repo (VocieGuardian)](https://github.com/Choa0Kim/VoiceGuardian_mean-win)  
+>> Frontend
+> - HTML5 / CSS3
+> - JavaScript
+>
+>> [프로젝트 repo (Wooram)](https://github.com/Fisa5th-AI-Final-Wooram)  
 <br />
 
 ## 3. AI조기경보시스템
@@ -76,7 +85,8 @@
 >> Front-end
 > - Language : HTML5, CSS3, JavaScript (Vanilla JS)
 > - Skill : Fetch API (비동기 통신), Responsive UI Design
-> [프로젝트 repo (FinanceLink)](https://github.com/kimphysicsman/mylittlehero_backend)
+> 
+>> [프로젝트 repo (FinanceLink)](https://github.com/Choa0Kim/FinanceLink)
 
 <br />
 
